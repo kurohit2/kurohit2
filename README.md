@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rohit Kumawat!<br>I'm a Robotics & Automation Engineering student and aspiring AI/ML Developer from Gandhinagar, Gujarat. I love building AI-powered applications and exploring how machine learning can solve real-world problems.
+👋 Hi, I'm Rohit Kumawat!<br>I'm a Robotics & Automation Engineering student and aspiring AI/ML Developer from Gandhinagar, Gujarat. I like building AI-powered applications and exploring how machine learning can solve real-world problems.
 
 
 ## 🌐 Socials:
